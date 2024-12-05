@@ -20,7 +20,7 @@ fifa21-analysis/
 ```
 
 ## Verwendete Tools 🛠
-- Python 3.8
+- Python 3.10
 - pandas & numpy für Datenverarbeitung
 - matplotlib & seaborn für Visualisierung
 - Jupyter Notebooks für Analyse

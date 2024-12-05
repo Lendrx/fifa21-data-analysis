@@ -44,11 +44,6 @@ jupyter notebook
 ## Datenquelle 📥
 - FIFA 21 Datensatz von Kaggle: [FIFA 21 Complete Player Dataset](https://www.kaggle.com/datasets/stefanoleone992/fifa-21-complete-player-dataset)
 
-## Nächste Schritte 🎯
-- [ ] Analyse von Spielerpositionen vertiefen
-- [ ] Machine Learning Modell für Marktwertvorhersage
-- [ ] Dashboard für interaktive Visualisierungen
-
 
 ## Anmerkungen 📝
 Dies ist ein Lernprojekt. Feedback und Verbesserungsvorschläge sind immer willkommen!

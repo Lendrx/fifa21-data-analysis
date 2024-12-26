@@ -1,7 +1,5 @@
 # FIFA 21 Datenanalyse-Projekt
 
-Ein Projekt zur Analyse von FIFA 21 Spielerdaten im Rahmen meines Data Science Studiums.
-
 ## Über das Projekt 🎮
 In diesem Projekt untersuche ich den FIFA 21 Spielerdatensatz von Kaggle. Ich wollte herausfinden, welche Faktoren den Marktwert und die Gesamtbewertung von Spielern beeinflussen.
 

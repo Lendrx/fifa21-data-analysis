@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-1.5.0-yellow.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![Build](https://img.shields.io/github/actions/workflow/status/username/repo/ci.yml?branch=main)
 
 
 ## Über das Projekt 
